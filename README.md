@@ -13,10 +13,10 @@ Sign language is a crucial form of communication for individuals with hearing im
   1. Installation:
   ```
    #Clone the repository
-   git clone https://github.com/SohamPrajapati/sign-language-detector-flask-python.git
+   git clone https://github.com/Addy0000/ASMP_Project.git
    
    #Navigate to the project directory
-   cd sign-language-detector-flask-python
+   cd ASMP_project
   ```
   
   2. **Install the required dependencies** using the following command:
@@ -27,7 +27,7 @@ Sign language is a crucial form of communication for individuals with hearing im
    
   3. Run the application:
   ```
-   python sign-language-detector-flask-python.py
+   python app.py
   ```
    
   3. Interact with the translator :
@@ -38,14 +38,6 @@ Sign language is a crucial form of communication for individuals with hearing im
   ### Home Page
 ![Screenshot (50)](https://github.com/SohamPrajapati/sign-language-detector-flask-python/assets/95955650/1a2d2170-b481-4a38-b233-ca31cebaa405)
 
-  ### About Page
-![Screenshot (104)](https://github.com/SohamPrajapati/sign-language-detector-flask-python/assets/95955650/362fcbaa-1cc4-4889-b6d9-ed46eea28be2)
 
   ### ASL Language
 ![hand-signs-of-the-ASL-Language.png](https://github.com/SohamPrajapati/sign-language-detector-flask-python/blob/master/hand-signs-of-the-ASL-Language.png)
- 
-## Project Report
- For detailed insights, analysis, and findings, refer to the Project Report provided in the repository.
-  
-## Contributing
- Contributions are welcome! If you'd like to contribute to this project, feel free to open issues, create pull requests, or reach out to discuss potential improvements.
